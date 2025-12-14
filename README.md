@@ -4,7 +4,7 @@ Assignment 2  - Scientific Visualization 2025/26
 ## 📁 Files
 
 - [`Presentation`](Presentation.pdf): final presentation summarizing methodology, experiments, and results;
-- [`Code`](Assignment2.ipynb): Jupyter notebook implementing the project workflow.
+- [`Code`](Assignment_2.ipynb): Jupyter notebook implementing the project workflow.
 
 ## 📚 Project Description
 
